@@ -1,5 +1,8 @@
 # beyonce
-Progression
+
+## https://beyonceflashcardsgame.netlify.app/
+
+![flash cards game](/flashcardsgame.jpg)
 
 ## Iteration 0 - Initial Layout & UI
 This should be completed by the end of the first day.
