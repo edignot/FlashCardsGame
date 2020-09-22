@@ -1,4 +1,4 @@
-# beyonce
+# Flash Cards Beyonce
 
 ## https://beyonceflashcardsgame.netlify.app/
 
